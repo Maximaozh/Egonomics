@@ -33,7 +33,6 @@
 - https://maximaozh.itch.io/egonomics 
 - Ключ доступа: SIBSAU
 
-## О проекте
 ## Концепция игры
 **Экономическая стратегия** с пошаговым управлением, где игрок строит производственные цепочки и конкурирует на виртуальном рынке.
 
@@ -46,14 +45,11 @@
 Достичь максимального капитала за ограниченное количество ходов.
 
 ##  Типы зданий
-- **Добывающие**  
-  ▶ Получают ресурсы без дополнительных условий  
+- **Добывающие** - Получают ресурсы без дополнительных условий  
 
-- **Перерабатывающие**  
-  ▶ Преобразуют сырье в товары  
+- **Перерабатывающие** - Преобразуют сырье в товары  
 
-- **Магазины**  
-  ▶ Реализуют продукцию на рынке  
+- **Магазины** - Реализуют продукцию на рынке  
 
 ##  Система департаментов
 Каждое здание содержит специализированные отделы:
@@ -76,15 +72,22 @@
 
 ### Возможности 
 
-![изображение](https://github.com/user-attachments/assets/b395a693-ef79-42f4-a1eb-75da0a8c1194)
-
-![изображение](https://github.com/user-attachments/assets/e1225b0e-de63-455c-b998-c0a53ba52641)
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/b395a693-ef79-42f4-a1eb-75da0a8c1194" style="background-color:white; padding:10px"></td>
+<td><img src="https://github.com/user-attachments/assets/e1225b0e-de63-455c-b998-c0a53ba52641" style="background-color:white; padding:10px"></td>
+</tr>
+</table>
 
 ### Логика ИИ
-![изображение](https://github.com/user-attachments/assets/41b9c91b-f0b1-44a8-b1d1-fbf5c4681fd7)
+<div style="background-color:white; display:inline-block; padding:10px">
+<img src="https://github.com/user-attachments/assets/41b9c91b-f0b1-44a8-b1d1-fbf5c4681fd7">
+</div>
 
 ### Структура программы
-![изображение](https://github.com/user-attachments/assets/c81c1ec4-468e-4efa-b802-9e81ca88dfdf)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c81c1ec4-468e-4efa-b802-9e81ca88dfdf" style="background-color:white; padding:10px; max-width:80%">
+</p>
 
 ## Скриншоты
 
