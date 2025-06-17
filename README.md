@@ -68,26 +68,18 @@
 3. **Настройка** - назначение департаментов
 4. **Создание связей** - формирование цепочек "источник→приемник"
 5. **Завершение хода** - выполнение всех операций
+
 ## Рисунки
 
 ### Возможности 
-
-<table>
-<tr>
-<td><img src="https://github.com/user-attachments/assets/b395a693-ef79-42f4-a1eb-75da0a8c1194" style="background-color:white; padding:10px"></td>
-<td><img src="https://github.com/user-attachments/assets/e1225b0e-de63-455c-b998-c0a53ba52641" style="background-color:white; padding:10px"></td>
-</tr>
-</table>
+![456183015-b395a693-ef79-42f4-a1eb-75da0a8c1194](https://github.com/user-attachments/assets/68747948-1f0e-4676-a0d8-0c061b473b35)
 
 ### Логика ИИ
-<div style="background-color:white; display:inline-block; padding:10px">
-<img src="https://github.com/user-attachments/assets/41b9c91b-f0b1-44a8-b1d1-fbf5c4681fd7">
-</div>
+![456182598-41b9c91b-f0b1-44a8-b1d1-fbf5c4681fd7](https://github.com/user-attachments/assets/e006d3fa-d544-498f-b57d-ba934b8bb26f)
 
 ### Структура программы
-<p align="center">
-<img src="https://github.com/user-attachments/assets/c81c1ec4-468e-4efa-b802-9e81ca88dfdf" style="background-color:white; padding:10px; max-width:80%">
-</p>
+![c81c1ec4-468e-4efa-b802-9e81ca88dfdf](https://github.com/user-attachments/assets/9069cb56-2490-4cde-97bb-5cd0365952bd)
+
 
 ## Скриншоты
 
