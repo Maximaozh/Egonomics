@@ -72,13 +72,13 @@
 ## Рисунки
 
 ### Возможности 
-![456183015-b395a693-ef79-42f4-a1eb-75da0a8c1194](https://github.com/user-attachments/assets/68747948-1f0e-4676-a0d8-0c061b473b35)
+![изображение](https://github.com/user-attachments/assets/76c2be72-9d7f-47d1-ac5c-2c2ea9d020b8)
 
 ### Логика ИИ
-![456182598-41b9c91b-f0b1-44a8-b1d1-fbf5c4681fd7](https://github.com/user-attachments/assets/e006d3fa-d544-498f-b57d-ba934b8bb26f)
+![изображение](https://github.com/user-attachments/assets/b8c5eb5a-2dbb-4629-91e2-eeabd196acb5)
 
 ### Структура программы
-![c81c1ec4-468e-4efa-b802-9e81ca88dfdf](https://github.com/user-attachments/assets/9069cb56-2490-4cde-97bb-5cd0365952bd)
+![изображение](https://github.com/user-attachments/assets/7f71d7ce-1a02-4307-bf13-fa0b7ec1f9c0)
 
 
 ## Скриншоты
