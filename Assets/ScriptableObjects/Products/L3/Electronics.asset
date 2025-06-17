@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9c651dcec1a1bb498af495c6e1e2072, type: 3}
+  m_Name: Electronics
+  m_EditorClassIdentifier: 
+  itemID: 8
+  itemName: "\u042D\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u0438\u043A\u0430"
+  level: 2
+  type: 2
+  requireds:
+  - product: {fileID: 11400000, guid: 069a494867a270444be125a924f60433, type: 2}
+    quantity: 1
+  - product: {fileID: 11400000, guid: 7da8053403f2e814f945b84d447a6026, type: 2}
+    quantity: 1
+  - product: {fileID: 11400000, guid: 3f0566fa67d623f4ab9e02f86579ff89, type: 2}
+    quantity: 2
+  basePrice: 30
+  ico: {fileID: -1365818394, guid: 6a615482eacdf804fba97bb80bc770a1, type: 3}

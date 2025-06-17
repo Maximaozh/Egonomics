@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7870128689130112038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8000998708625589003}
+  - component: {fileID: 2083459895383482163}
+  - component: {fileID: 6717664092603587537}
+  m_Layer: 0
+  m_Name: FreeUnitPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8000998708625589003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7870128689130112038}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -78.01486, y: -27.903091, z: -0.8051756}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2083459895383482163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7870128689130112038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdc48ec8d940d254ab06f9cc3d261752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  info: {fileID: 6717664092603587537}
+  GUIPrefab: {fileID: 7117093911647994753, guid: 19e3d4e52124fc1489edd03f34c40742, type: 3}
+  GUIContent: {fileID: 0}
+--- !u!114 &6717664092603587537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7870128689130112038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5fa6a6014cca0d459686188f2edd7a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unitName: SLOT
+  extraInfo: 
+  type: 5
+  purchaseCost: 0
+  maintenanceCost: 0
+  unitLevel: 1
+  workersLevel: 1
+  basePower: 500
+  maxReasonableLevel: 100
+  maxStorageCapacity: 500
+  outputCapacity: 500
+  parentBuilding: {fileID: 0}
+  outputProduct: {fileID: 0}

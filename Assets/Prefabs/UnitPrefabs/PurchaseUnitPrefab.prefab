@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8971699049648899388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3982790370351133142}
+  - component: {fileID: 311971040350821393}
+  - component: {fileID: 4232107083658682104}
+  m_Layer: 0
+  m_Name: PurchaseUnitPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3982790370351133142
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8971699049648899388}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 461.99258, y: 195.1891, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &311971040350821393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8971699049648899388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdc48ec8d940d254ab06f9cc3d261752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  info: {fileID: 4232107083658682104}
+  GUIPrefab: {fileID: 4892865337557822916, guid: 64f34ecb5c8d0eb4ba6ff63fd6fa2990, type: 3}
+  GUIContent: {fileID: 0}
+--- !u!114 &4232107083658682104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8971699049648899388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e203a0c1da7eb4543a9687ab99345486, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unitName: BUY
+  extraInfo: "\u041F\u043E\u043A\u0443\u043F\u0430\u0435\u0442 \u0442\u043E\u0432\u0430\u0440\u044B"
+  type: 1
+  purchaseCost: 300
+  maintenanceCost: 100
+  unitLevel: 1
+  workersLevel: 1
+  basePower: 500
+  maxReasonableLevel: 100
+  maxStorageCapacity: 500
+  outputCapacity: 250
+  parentBuilding: {fileID: 0}
+  outputProduct: {fileID: 11400000, guid: d74e2db4d5305c54a8cddceb5e544c2e, type: 2}
+  sellerUnit: {fileID: 0}
+  suggestedMultiplier: 1
+  fillFromMarket: 0
+  sellerString: 
+  marketMultiplier: 1.2

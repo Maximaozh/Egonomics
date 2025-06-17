@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9c651dcec1a1bb498af495c6e1e2072, type: 3}
+  m_Name: Metall
+  m_EditorClassIdentifier: 
+  itemID: 1
+  itemName: "\u041C\u0435\u0442\u0430\u043B\u043B"
+  level: 0
+  type: 0
+  requireds: []
+  basePrice: 20
+  ico: {fileID: -1428568014, guid: 6a615482eacdf804fba97bb80bc770a1, type: 3}
